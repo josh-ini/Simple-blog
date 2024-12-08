@@ -1,0 +1,57 @@
+h1 {
+  text-align: left;
+  font-weight: lighter;
+  display: inline-block;
+  margin-left: 5%;
+  color: grey;
+
+}
+.compose {
+  margin-left: 5%;
+}
+.button {
+  text-align: center;
+  background-color: blue;
+  border-radius: 10%;
+  padding: 5px;
+  margin-left: 5%;
+}
+label {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.navigation {
+display: inline-block;
+float: right;
+
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 30px;
+  padding: 10px;
+
+}
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+    font-weight: lighter;
+    color: grey;
+    font-family: sans-serif;
+    box-shadow: 30px;
+}
+a:hover {
+  color: #3B9AE1;
+}
+p {
+  margin-left: 5%;
+}
+.footer {
+  margin-bottom: 0px;
+}
+.navbar {
+  background-color:  #D7C0AE;
+  }
